@@ -14,3 +14,15 @@ config/name="arcade-game1"
 run/main_scene="res://main.tscn"
 config/features=PackedStringArray("4.3", "Forward Plus")
 config/icon="res://icon.svg"
+
+[display]
+
+window/size/viewport_width=720
+window/size/viewport_height=1600
+window/handheld/orientation=1
+window/ios/suppress_ui_gesture=false
+window/size/viewport_height.mobile=0
+
+[rendering]
+
+renderer/rendering_method="mobile"

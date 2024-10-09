@@ -16,7 +16,3 @@ func _on_normal_pressed() -> void:
 
 func _on_arcade_pressed() -> void:
 	pass # Replace with function body.
-
-
-func _on_slow_pressed() -> void:
-	pass # Replace with function body.
